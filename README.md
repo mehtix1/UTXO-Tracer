@@ -7,10 +7,11 @@
 ## Installation
 
 ```bash
+
 git clone https://github.com/yourusername/utxo-tracer.git
 cd utxo-tracer
 pip install -r requirements.txt
-
+```
 ## 🚀 Usage
 
 ### 1. Clone the Repository
@@ -18,3 +19,4 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/yourusername/utxo-tracer.git
 cd utxo-tracer
+```
