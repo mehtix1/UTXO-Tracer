@@ -33,3 +33,10 @@ vout = 0
 ```bash
 python main.py
 ```
+### 4. 💡 Future Improvements (Planned)
+# TODO: Future improvements if time allows:
+# - Enhance GUI using interactive libraries like Plotly or PyQt for better UX.
+# - Add tooltips or hover-info showing full txid, vout, BTC value, timestamp.
+# - Real-time graph updates as new data is fetched.
+# - Option to export graph as image or JSON for analysis/sharing.
+# - Add filters for depth, BTC amount, or script types to customize views.
