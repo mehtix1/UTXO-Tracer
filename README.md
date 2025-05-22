@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/utxo-tracer.git
 cd utxo-tracer
 pip install -r requirements.txt
 ```
-###Configure Target Transaction
+### 2. Configure Target Transaction
 Open main.py and set the transaction ID and output index of the UTXO to trace:
 
 ```bash
@@ -29,7 +29,7 @@ txid = "your_txid_here"
 vout = 0
 
 ```
-###Run the Tracer
+### 3. Run the Tracer
 ```bash
 python main.py
 ```
